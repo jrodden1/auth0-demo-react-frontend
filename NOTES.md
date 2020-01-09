@@ -16,3 +16,9 @@ Helpful tutorials:
 
 Also, I used this site to setup the Rails 5.2 part (as the auth0 directions won't work with 5.2) 
 https://www.storyblok.com/tp/how-to-add-auth0-authentication-to-a-ruby-on-rails-api
+
+This was also helpful for enabling HTTPS for yarn
+
+https://create-react-app.dev/docs/using-https-in-development/
+
+https://medium.com/@danielgwilson/https-and-create-react-app-3a30ed31c904
