@@ -3,7 +3,6 @@ import { useAuth0 } from "../react-auth0-spa";
 
 const Home = () => {
    const {isAuthenticated} = useAuth0()
-   debugger
    if (isAuthenticated) { 
       return (
          <div>
